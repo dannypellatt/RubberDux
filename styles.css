@@ -108,7 +108,7 @@ body {
 
 @media (max-width: 530px) {
     .hero-section {
-        clip-path: polygon(100% 0, 100% 10%, 100% 100%, 0% 100%, 0 30%); 
+        clip-path: polygon(100% 10%, 100% 0, 100% 100%, 0% 100%, 0 30%); 
     }
     .navbar-brand {
         margin-left: .5rem;
@@ -117,7 +117,7 @@ body {
 
 @media (max-width: 350px) {
     .hero-section {
-        clip-path: polygon(100% 10%, 100% 10%, 100% 100%, 0% 100%, 0 30%); 
+        clip-path: polygon(100% 10%, 100% 0, 100% 100%, 0% 100%, 0 30%); 
     }
 }
 .hero-section h1 {
