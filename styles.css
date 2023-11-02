@@ -120,13 +120,6 @@ body {
         clip-path: polygon(100% 10%, 100% 0%, 100% 100%, 0% 100%, 0 30%); 
     }
 }
-
-.text-group {
-    position: absolute; /* Absolute positioning within the hero-section */
-    top: 5%; /* Adjust this value to position the text in the desired location */
-    max-width: 90%;
-}
-
 .hero-section h1 {
     font-size: 2em;   
 }
