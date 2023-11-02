@@ -137,6 +137,7 @@ body {
     background-color: black;
     margin-left: 0 !important;
     padding-left: 0 !important;
+    text-align: center !important;
 }
 .hero-btn {
     position: absolute;
