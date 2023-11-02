@@ -108,7 +108,7 @@ body {
 
 @media (max-width: 530px) {
     .hero-section {
-        clip-path: polygon(95% 0, 100% 0, 100% 100%, 0% 100%, 0 30%); 
+        clip-path: polygon(100% 0, 100% 0, 100% 100%, 0% 100%, 0 30%); 
     }
     .navbar-brand {
         margin-left: .5rem;
@@ -132,9 +132,11 @@ body {
 }
 .hero-subtitle {
     font-size: 1.2em;
-    margin-top: 23em;
+    margin-top: 24em;
     color: white;
     background-color: black;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
 }
 .hero-btn {
     position: absolute;
