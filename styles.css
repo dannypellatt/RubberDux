@@ -60,6 +60,7 @@ body {
 .navbar-brand {
     margin-bottom: -1rem;
     margin-top: -1rem;
+    margin-left: 1rem;
     font-size: 3.5em;
     font-family: 'Courier Prime', Courier, monospace;
     color: black;
@@ -79,7 +80,7 @@ body {
 /* For small screens */
 @media (max-width: 767px) {
     .navbar-brand {
-        font-size: 1.8em; /* Decreased font size for the brand */
+        font-size: 2.8em; /* Decreased font size for the brand */
     }
 
     .nav-item {
