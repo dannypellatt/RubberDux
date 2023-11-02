@@ -134,6 +134,7 @@ body {
     font-size: 1.2em;
     margin-top: 23em;
     color: white;
+    background-color: black;
 }
 .hero-btn {
     position: absolute;
