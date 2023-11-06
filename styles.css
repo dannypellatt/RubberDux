@@ -58,11 +58,12 @@ body {
 }
 
 .navbar-brand {
-    margin-bottom: -1rem;
+    margin-bottom: -1.5rem;
     margin-top: -1rem;
-    margin-left: 1rem;
-    font-size: 3.5em;
-    font-family: 'Courier Prime', Courier, monospace;
+    font-size: 4.5em;
+    font-family: 'Aladin'; 
+    font-style: normal; 
+    font-variant: normal;
     color: black;
     align-self: flex-start; /* Ensure the brand aligns to the start (left in this context) */
 }
@@ -80,7 +81,7 @@ body {
 /* For small screens */
 @media (max-width: 767px) {
     .navbar-brand {
-        font-size: 2.8em; /* Decreased font size for the brand */
+        font-size: 3.5em; /* Decreased font size for the brand */
     }
 
     .nav-item {
